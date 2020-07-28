@@ -1,1 +1,2 @@
-1355380060:AAFoYakfCW8ETmgX_z-U2cczKpKWS-wkz8I,665990715
+APT_KEY,CHAT_ID
+#Keep this Format ==> API_KEY,CHAT_ID <== and delete this file after update API_KEY and CHAT_ID.
