@@ -18,3 +18,6 @@ Modify keys.txt
 ### Usage
 * **$~/Telegram-Bot:** _watch -n 60 ./getUpdates.sh_ #This will get input from your chat with bot, also this screen will run every 60 sec or 1 min.
 * Now go to your chat with bot and give a one domain to test.
+
+### Special Thanks to
+![@crashskull](https://twitter.com/crashskull)
